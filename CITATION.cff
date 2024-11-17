@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Schimpf"
+    given-names: "Yanick"
+  - family-names: "Stawarz"
+    given-names: "Michal"
+  - family-names: "Angelika"
+    given-names: "Steger"
+title: "ARC - A Tree-of-Thoughts approach."
+version: 0.0.1
+url: "https://github.com/yschimpf/ARC_Tot"
+date-released: /
